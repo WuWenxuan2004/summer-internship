@@ -1,1 +1,2 @@
 # summer-internship
+This is a simple chatbot that can currently only have the most basic conversations. It includes the front-end and back-end of the application. It can currently be applied to the initial communication between the customer service industry and users. Sufficient time can be provided to arrange for human customer service representatives to go online, enhancing the user experience and reducing the workload of customer service.
